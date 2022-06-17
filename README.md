@@ -5,4 +5,4 @@
 
 I'm Mitchell!  
 I am currently a full-time student at [Stevens Institute of Technology](https://www.stevens.edu/) studying Computer Engineering and I am expected to graduate in May 2023.  
-I am also currently a part-time asscoiate at [Conair LLC](https://www.conair.com/) working in the IT department on ecommerce related projects.
+I am also currently an E-Commerce IT Technician at [Conair LLC](https://www.conair.com/) working in the IT department on ecommerce related projects.
