@@ -1,5 +1,8 @@
-|<a href="https://github.com/MAPReiff"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MAPReiff&count_private=truea&show_icons=true&show_icons=true&theme=radical&hide_border=true&line_height=24" /></a>|<a href="https://github.com/MAPReiff?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAPReiff&layout=compact&theme=radical&hide_border=true" /></a>|
-|-|-|
+|<a href="https://github.com/MAPReiff"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MAPReiff&count_private=truea&show_icons=true&show_icons=true&theme=radical&hide_border=true&line_height=24" /></a>|<a href="https://wakatime.com/@MAPReiff"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=MAPReiff&theme=radical&hide_border=true&line_height=24&custom_title=This%20Week%27s%20Programming&langs_count=5"></a>|
+|:-:|:-:|
+|<a href="https://github.com/MAPReiff?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAPReiff&layout=compact&theme=radical&hide_border=true&line_height=24" /></a>||
+
+
 
 ### Hi, welcome to my profile!
 
