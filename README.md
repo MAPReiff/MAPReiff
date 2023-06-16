@@ -10,4 +10,7 @@
 
 I'm Mitchell!  
 Hello, welcome to my website! My name is Mitchell and I am a Computer Engineer from Bronx, NY.
+
+I currently work as a Junior Technical Development &amp; Quality Analyst at [Build-A-Bear Workshop](https://www.buildabear.com/), working on e-commerce related projects and QA.
+
   <!-- I am also currently an E-Commerce IT Technician at [Conair LLC](https://www.conair.com/) working in the IT department on e-commerce and IT related projects. -->
